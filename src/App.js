@@ -5,7 +5,10 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-        <div>Hello</div>
+        <div>
+
+            <img src={logo} />
+        </div>
     );
   }
 }
